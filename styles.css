@@ -1,0 +1,75 @@
+
+nav{
+   margin: 10px 0px;
+   text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: whitesmoke;
+}
+h1{
+   color: antiquewhite;background-color: darkgreen;text-align: center;font-family; lucida console;
+}
+body{
+   background-color: #8B4513;
+}
+header{
+background-color: darkgreen;
+}
+img {
+   width: 20px;
+}
+.sigma{
+   
+   color: firebrick;text-align: center;background-color: #8B4513;
+}
+h4{
+  color: snow;text-align: center;
+}
+p{
+   color: snow;text-align: center; 
+}
+h3{
+  color: snow;text-align: center;
+}
+
+
+	
+.animated-text {
+   animation: color-change 3s infinite;
+   background-color: #8B4513;
+   text-align: center;
+}
+
+@keyframes color-change {
+0% {color:blue;}
+25%{color:green;}
+50%{color:yellow;}
+75%{color:orange;}
+100%{color:red;}
+
+}
+	
+.zag{
+   color:red;
+   background-color: #8B4513;
+}
+.yt{
+   background-image: linear-gradient(to left, white,red
+   );
+   background-clip: text;
+}
+	
+.center{
+   text-align: center;
+}
+
+.w{
+   width: 300px;
+}
+.g{
+   color:green;
+   text-decoration: none;
+}
